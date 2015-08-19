@@ -1,0 +1,71 @@
+
+.footer1{
+border:solid 1px;
+background-color:black;
+text-align:center;
+height:30px;
+margin-top:550px;
+padding-top:10px;
+
+}
+.content{
+        background-color:white;
+        border-bottom: 0.01em solid#666666;
+	border-right: 0.18em solid#666666;                    border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:10px;
+        margin-left:5px;
+        height:40px;
+        color:green;
+        }
+.purchaseTxt{
+
+        margin-left:475px;
+        margin-top:15px;
+        border-top: 0.18em solid#666666;
+        border-bottom: 0.18em solid #666666;
+        border-top: 0.18em solid #666666;
+
+	border-right: 0.18em solid#666666;
+         border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:15px;
+        height:50px;
+        width:200px;
+        padding-left:8px;
+padding-top:23px;
+
+background-color:#669966;
+
+}
+.purchaseTxt5{
+
+        margin-left:475px;
+        margin-top:15px;
+        border-top: 0.18em solid#666666;
+        border-bottom: 0.18em solid #666666;
+        border-top: 0.18em solid #666666;
+
+	border-right: 0.18em solid#666666;
+         border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:15px;
+        height:150px;
+        width:200px;
+        padding-left:8px;
+padding-top:23px;
+
+background-color:#669966;
+
+}
+.buy{
+        border-top: 0.10em solid#666666;
+        border-bottom: 0.10em solid #666666;
+        
+
+	border-right: 0.10em solid#666666;
+         border-left: 0.10em solid #666666;
+        border-style:solid;
+        border-radius:10px;
+
+}

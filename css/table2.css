@@ -1,0 +1,70 @@
+
+.footer1{
+border:solid 1px;
+background-color:black;
+text-align:center;
+height:30px;
+margin-top:50px;
+padding-top:10px;
+
+}
+
+.purchaseTxt{
+
+        margin-left:75px;
+        margin-top:15px;
+        border-top: 0.18em solid#666666;
+        border-bottom: 0.18em solid #666666;
+        border-top: 0.18em solid #666666;
+
+	border-right: 0.18em solid#666666;
+         border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:15px;
+        height:1030px;
+        width:1120px;
+        padding-left:8px;
+padding-top:23px;
+
+background-color:white;
+
+}
+.purchaseTxt1{
+margin-left:55px;
+        margin-top:15px;
+        border-top: 0.18em solid#666666;
+        border-bottom: 0.18em solid #666666;
+        border-top: 0.18em solid #666666;
+
+	border-right: 0.18em solid#666666;
+         border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:15px;
+        height:50px;
+        width:1000px;
+        padding-left:8px;
+padding-top:23px;
+
+background-color:#669966;
+}
+.purchaseTxt2{
+margin-left:68px;
+        margin-top:15px;
+        border-top: 0.18em solid#666666;
+        border-bottom: 0.18em solid #666666;
+        border-top: 0.18em solid #666666;
+
+	border-right: 0.18em solid#666666;
+         border-left: 0.18em solid #666666;
+        border-style:solid;
+        border-radius:15px;
+        height:700px;
+        width:960px;
+        padding-left:8px;
+padding-top:23px;
+
+background-image:url("bKash_payment_Process.png");
+}
+.bkash{
+margin-left:355px;
+}
